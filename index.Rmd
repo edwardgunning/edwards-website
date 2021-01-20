@@ -1,0 +1,13 @@
+---
+title: "Edward Gunning"
+description: |
+  Welcome to my personal website.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+```
+
