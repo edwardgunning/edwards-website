@@ -9,3 +9,5 @@ twitter:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+I am a PhD student at the [Centre for Research Training in Foundations of Data Science](https://www.data-science.ie/). I am based in the Mathematics and Statistics in the [University of Limerick](https://www.ul.ie/)

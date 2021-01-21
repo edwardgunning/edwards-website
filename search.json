@@ -3,10 +3,10 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "A small bit about me.",
+      "description": "A small bit about me.\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-20T15:25:38+00:00"
+      "contents": "\nI am a PhD student at the Centre for Research Training in Foundations of Data Science. I am based in the Mathematics and Statistics in the University of Limerick\n\n\n\n",
+      "last_modified": "2021-01-21T09:38:56+00:00"
     },
     {
       "path": "index.html",
