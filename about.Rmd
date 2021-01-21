@@ -2,6 +2,8 @@
 title: "About this site"
 description: |
   A small bit about me.
+twitter:
+  creator: gunning_edward
 ---
 
 ```{r setup, include=FALSE}
